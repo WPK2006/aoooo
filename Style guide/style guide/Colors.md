@@ -5,7 +5,7 @@
   --baby-pink: #e999c2;
 }
 
-![[Pasted image 20251117102049.png]]
+![Logotyp text rosa](Logotyp_text_rosa.svg)
 - Background
  --white-background: #ffffff;
 
