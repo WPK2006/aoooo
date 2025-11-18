@@ -5,7 +5,7 @@
   --baby-pink: #e999c2;
 }
 
-![[Pasted image 20251117102214.png]]
+![[Pasted image 20251117102049.png]]
 - Background
  --white-background: #ffffff;
 
@@ -17,7 +17,7 @@
 - Montserrat medium 
 
 ## Logos 
-![[text_black.png]]
+
 
 ![[Logotyp_text_rosa.svg]]
 
@@ -33,5 +33,6 @@
 ![[tc-s_svv.svg]]
 
 ![[tc-s_w_officiell.svg]]
+![[Symbol_cirkel_rosa.svg]]
 
-![[Symbol_cirkel_svart 1.svg]]![[Symbol_cirkel_rosa 1.svg]]
+![[Symbol_cirkel_svart.svg]]

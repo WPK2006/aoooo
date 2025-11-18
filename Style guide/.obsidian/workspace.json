@@ -39,12 +39,14 @@
             "id": "ac367636b84edc59",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "style guide/Pasted image 20251117102049.png"
+                "file": "style guide/Colors.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251117102049"
+              "icon": "lucide-file",
+              "title": "Colors"
             }
           }
         ],
@@ -193,25 +195,28 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
-  "active": "28ef98822eb0c263",
+  "active": "ac367636b84edc59",
   "lastOpenFiles": [
-    "style guide/Pasted image 20251117102000.png",
-    "style guide/Pasted image 20251117102049.png",
-    "style guide/Pasted image 20251117102214.png",
-    "style guide/Pasted image 20251117102310.png",
-    "style guide/Pasted image 20251117103612.png",
-    "style guide/Pasted image 20251117103731.png",
-    "style guide/Stenungsunds+kommun_horistontell_CMYK-01.svg",
-    "style guide/Stenungsunds+kommun_horistontell_CMYK-01_backup.svg",
-    "style guide/Symbol_cirkel_rosa 1.svg",
-    "style guide/Symbol_cirkel_svart 1.svg",
-    "style guide/Symbol_cirkel_svart.svg",
+    "Untitled.base",
+    "Untitled 1.base",
+    "Untitled 2.base",
+    "Untitled 3.base",
+    "Untitled 4.base",
     "style guide/Colors.md",
-    "style guide",
-    "Welcome.md"
+    "style guide/Pasted image 20251117102049 1.png",
+    "style guide/attc-s_frilagd.svg",
+    "style guide/Pasted image 20251117102049.png",
+    "style guide/Logotyp_text_rosa.svg",
+    "style guide/Logotyp_text_svart.svg",
+    "Welcome.md",
+    "style guide/Teknikcollege-White_-_No_text.svg",
+    "style guide/tc-s_w_officiell.svg",
+    "style guide/tc-s_svv.svg",
+    "style guide/tc-s_officiell.svg",
+    "style guide/tc-s_bw_officiell.svg",
+    "style guide"
   ]
 }
